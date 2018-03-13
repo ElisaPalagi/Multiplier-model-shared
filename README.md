@@ -1,0 +1,1 @@
+Multiplier model shared
